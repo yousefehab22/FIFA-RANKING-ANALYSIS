@@ -1,5 +1,6 @@
 # FIFA-RANKING-ANALYSIS
 
+```html
 <!DOCTYPE html>
 <html>
 
@@ -20,7 +21,7 @@
     <h1>Instructions for Use:</h1>
 
     <h2>Upload the Dataset:</h2>
-    <p>Ensure the "fifa_ranking.csv" file is uploaded to your Google Colab environment. You can use the <code>files.upload()</code> function in a code cell to upload the file.</p>
+    <p>Ensure the "fifa_ranking.csv" file is uploaded to your Google Colab environment. You can use the `files.upload()` function in a code cell to upload the file.</p>
 
     <pre><code>
         from google.colab import files
