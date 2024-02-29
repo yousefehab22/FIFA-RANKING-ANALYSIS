@@ -1,6 +1,5 @@
 # FIFA-RANKING-ANALYSIS
 
-```html
 <!DOCTYPE html>
 <html>
 
