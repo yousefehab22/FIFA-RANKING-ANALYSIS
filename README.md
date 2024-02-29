@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-    <title>FIFA Ranking Data Analysis Project</title>
+    
 </head>
-
 <body>
 
     <h1>FIFA-RANKING-ANALYSIS</h1>
@@ -53,5 +51,4 @@
     </code></pre>
 
 </body>
-
 </html>
